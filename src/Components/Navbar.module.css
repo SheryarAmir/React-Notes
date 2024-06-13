@@ -1,0 +1,12 @@
+.main {
+   background:rgba(0, 0, 0, 0.5) url(https://alltechvirtual.io/wp-content/uploads/2024/02/orizonjpg-022.jpg);
+   height: 80vh;
+   position: relative;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   background-position: center;
+  background-blend-mode: darken;
+  
+}
+
